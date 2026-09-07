@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Symbol
+comment0.text=\r\n\ Un\ simbolo\ de\ la\ maquina\ tragamonedas\r\n\ el\ simbolo\ se\ identifica\ unicamente\ por\ su\ color\ cuyo\ nombre\r\n\ debe\ ser\ de\ CSS.\r\n\r\n\ @author\ \ Oscar\ Carvajal\r\n\ @version\ 23/08/2026\r\n
+comment1.params=color
+comment1.target=Symbol(java.lang.String)
+comment1.text=\r\n\ Crea\ un\ simbolo\ con\ el\ color\ indicado.\r\n\ @param\ color\ nombre\ CSS\ del\ color\ del\ simbolo\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\r\n\ Consulta\ el\ color\ del\ simbolo.\r\n\ @return\ nombre\ CSS\ del\ color\r\n
+numComments=3
