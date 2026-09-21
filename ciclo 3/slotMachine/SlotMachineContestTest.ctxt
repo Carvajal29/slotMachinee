@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SlotMachineContestTest
+comment0.text=\r\n\ Pruebas\ de\ unidad\ de\ constructor\ SlotMachine(n)\ y\ la\r\n\ solucion\ del\ problema\ de\ la\ maraton.\r\n\r\n\ @author\ Carvajal\r\n
+comment1.params=
+comment1.target=void\ shouldCreateMachineWithNWheelsAndNSymbols()
+comment1.text=\r\n\ Verifica\ que\ SlotMachine(n)\ cree\ n\ ruedas\ y\ n\ simbolos,\r\n\ y\ que\ no\ arranque\ ya\ en\ jackpot.\r\n
+comment2.params=
+comment2.target=void\ shouldReachJackpotForEveryN()
+comment2.text=\r\n\ Verifica\ que\ para\ todo\ n\ entre\ 3\ y\ 50\ se\ llegue\ al\ jackpot\r\n
+comment3.params=
+comment3.target=void\ shouldReturnValidActions()
+comment3.text=\r\n\ Verifica\ que\ cada\ accion\ retornada\ por\ solve\ gire\ una\ rueda\r\n\ que\ existe.\r\n
+numComments=4

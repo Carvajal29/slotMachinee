@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SlotMachineContest
+comment0.text=\r\n\ Resuelve\ el\ problema\ de\ la\ maraton\ Slot\ Machine\r\n\ usando\ SlotMachine\ y\ usando\ solo\ spin(wheel,\ steps)\ y\ distinctSymbols().\r\n\ @author\ Carvajal\r\n
+comment1.params=n
+comment1.target=int[][]\ solve(int)
+comment1.text=\r\n\ Resuelve\ una\ maquina\ de\ n\ ruedas\ y\ n\ simbolos\ inicializada\ aleatoriamente\r\n\ @param\ n\ numero\ de\ ruedas\ y\ simbolos\r\n\ @return\ secuencia\ de\ acciones\ {i,\ j}\:\ girar\ la\ rueda\ i,\ j\ pasos\r\n
+comment2.params=machine\ n
+comment2.target=int[][]\ solve(SlotMachine,\ int)
+comment2.text=\r\n\ Resuelve\ la\ maquina\ dada\ y\ registra\ cada\ accion\ realizada.\r\n
+comment3.params=values
+comment3.target=int\ min(int[])
+comment3.text=\r\n\ Retorna\ el\ menor\ valor\ de\ un\ arreglo.\r\n
+comment4.params=n
+comment4.target=void\ simulate(int)
+comment4.text=\r\n\ Simula\ visualmente\ la\ solucion\ de\ una\ maquina\ de\ n\ ruedas\ y\ n\r\n\ simbolos\ inicializada\ aleatoriamente.\r\n\ @param\ n\ numero\ de\ ruedas\ y\ simbolos\r\n
+numComments=5
